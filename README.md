@@ -25,6 +25,6 @@ to build Angular components, services, pipes, directives and more.
 
 1. Run `npm install`
 
-text
+tex22t
 
 1. Run `ng serve -o`
